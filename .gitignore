@@ -12,3 +12,6 @@ PreprocessedDatasetV1.zip
 
 # Keep .gitignore tracked
 !.gitignore
+
+# Ignore macOS system files
+.DS_Store
