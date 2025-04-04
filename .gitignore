@@ -1,0 +1,14 @@
+# Ignore all folders
+CelebDF/
+PreprocessedDatasetV1/
+UtilityFiles/
+venv/
+
+# Ignore specific files
+PreprocessedDatasetV1.zip
+
+# Allow Jupyter Notebooks
+!*.ipynb
+
+# Keep .gitignore tracked
+!.gitignore
