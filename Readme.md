@@ -76,5 +76,5 @@ This project is open-source under the **MIT License**.
 ## **References**
 - Paper: **Deepfake Detection using Deep Feature Stacking and Meta-Learning**
 - Authors: Gourab Naskar, Sk Mohiuddin, Samir Malakar, Erik Cuevas, Ram Sarkar
-- [Paper Link](https://www.sciencedirect.com/science/article/pii/S2666539124001234)
+- [Paper Link](https://www.sciencedirect.com/science/article/pii/S2405844024019649)
 
