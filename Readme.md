@@ -17,7 +17,7 @@ DeepFake videos pose a serious threat to digital security and misinformation. Th
   !kaggle datasets download -d reubensuju/celeb-df-v2
   !unzip celeb-df-v2.zip -d CelebDF
   ```
-- [Dataset Link](https://www.kaggle.com/datasets/reubensuju/celeb-df-v2)
+- [Dataset Link](https://www.sciencedirect.com/science/article/pii/S2405844024019649)
 
 ### **2. Preprocessed Dataset (Faces Extracted from Videos)**
 - Available on **AWS S3** (Preprocessed Faces)
@@ -63,7 +63,8 @@ Run the **Jupyter Notebook**:
 ```sh
 jupyter notebook
 ```
-Open `Main.ipynb` and execute all cells.
+Open `Deepfake_Detection.ipynb` and execute all cells.  
+*NOTE*: Code is optimized for Google Colab
 
 ---
 
